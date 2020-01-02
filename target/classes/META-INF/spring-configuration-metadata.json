@@ -1,0 +1,42 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.uchain.drugtracesystem.config.ManagerConfig",
+      "name": "fabric",
+      "type": "com.uchain.drugtracesystem.config.ManagerConfig"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.uchain.drugtracesystem.config.ManagerConfig",
+      "name": "fabric.channel-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.uchain.drugtracesystem.config.ManagerConfig",
+      "name": "fabric.orderer-domain-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.uchain.drugtracesystem.config.ManagerConfig",
+      "name": "fabric.org-domain-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.uchain.drugtracesystem.config.ManagerConfig",
+      "name": "fabric.org-msp-id",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.uchain.drugtracesystem.config.ManagerConfig",
+      "name": "fabric.org-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.uchain.drugtracesystem.config.ManagerConfig",
+      "name": "fabric.version",
+      "type": "java.lang.String"
+    }
+  ]
+}
